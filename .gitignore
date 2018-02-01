@@ -36,3 +36,5 @@ doc
 hackbot.db
 record
 dist
+
+package-lock.json

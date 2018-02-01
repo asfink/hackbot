@@ -1,3 +1,7 @@
+# This is a fork of Hackbot.
+The goal of this fork is to implement automuting of members, without a complete ban. 
+
+
 <img src="https://raw.githubusercontent.com/kern/hackbot/master/resources/logo.png" alt="hackbot" width="354" />
 
 [![npm shield](https://img.shields.io/npm/v/hackbot.svg)](https://www.npmjs.com/package/hackbot) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
